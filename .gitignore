@@ -35,6 +35,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+.apt_generated_tests/
 
 ### VisualStudioCode ###
 .vscode/*
