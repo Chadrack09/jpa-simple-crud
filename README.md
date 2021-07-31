@@ -9,7 +9,6 @@ Several Java EE API was used specifically:
 4. JDBC
 
 ### Code sample from JPA
-
 ```java
 public void insertToDB(T obj) {
   EntityManager em = emf.createEntityManager();
@@ -28,5 +27,5 @@ public void insertToDB(T obj) {
 }
 ```
 #### JPA Structure
-![Image](src/main/webapp/img/img1.jpg)
+![Java Persistence API](/src/main/webapp/img/img1.jpg)
 
