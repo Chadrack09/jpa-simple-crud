@@ -27,3 +27,6 @@ public void insertToDB(T obj) {
   }
 }
 ```
+#### JPA Structure
+![Image](src/main/webapp/img/img1.jpg)
+
